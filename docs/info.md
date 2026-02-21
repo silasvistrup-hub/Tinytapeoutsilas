@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+if all the switches 1, 2 and 3 are the seven egment will show the number 3
 
 ## How to test
 
-Explain how to use your project
+turn on 1,2 and 3
 
 ## External hardware
 
